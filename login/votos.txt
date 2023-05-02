@@ -1,0 +1,1 @@
+{"Azul":2,"Amarelo":0,"Vermelho":1,"Preto":5}
